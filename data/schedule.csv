@@ -1,0 +1,61 @@
+game_id,date,home_city,away_city,venue_city
+1,2024-10-03,Seattle,Dallas,Seattle
+2,2024-10-06,Dallas,Charlotte,Dallas
+3,2024-10-07,Dallas,New York,Dallas
+4,2024-10-10,Dallas,Philadelphia,Dallas
+5,2024-10-13,Dallas,Houston,Dallas
+6,2024-10-14,New York,Dallas,New York
+7,2024-10-18,Houston,Dallas,Houston
+8,2024-10-21,New York,Dallas,New York
+9,2024-10-24,New York,Dallas,New York
+10,2024-10-26,Dallas,Miami,Dallas
+11,2024-10-28,Dallas,Charlotte,Dallas
+12,2024-10-29,Charlotte,Dallas,Charlotte
+13,2024-11-02,Washington DC,Dallas,Washington DC
+14,2024-11-05,Chicago,Dallas,Chicago
+15,2024-11-07,Dallas,Philadelphia,Dallas
+16,2024-11-10,Dallas,Chicago,Dallas
+17,2024-11-13,Minneapolis,Dallas,Minneapolis
+18,2024-11-17,Dallas,New Orleans,Dallas
+19,2024-11-20,Dallas,Houston,Dallas
+20,2024-11-24,Dallas,Houston,Dallas
+21,2024-11-25,Toronto,Dallas,Toronto
+22,2024-11-28,Detroit,Dallas,Detroit
+23,2024-11-30,Philadelphia,Dallas,Philadelphia
+24,2024-12-01,Atlanta,Dallas,Atlanta
+25,2024-12-05,Dallas,Cleveland,Dallas
+26,2024-12-08,Dallas,Philadelphia,Dallas
+27,2024-12-12,Los Angeles,Dallas,Los Angeles
+28,2024-12-14,Cleveland,Dallas,Cleveland
+29,2024-12-17,Philadelphia,Dallas,Philadelphia
+30,2024-12-21,Dallas,Denver,Dallas
+31,2024-12-24,Philadelphia,Dallas,Philadelphia
+32,2024-12-25,Phoenix,Dallas,Phoenix
+33,2024-12-28,Detroit,Dallas,Detroit
+34,2024-12-30,San Francisco,Dallas,San Francisco
+35,2024-12-31,San Francisco,Dallas,San Francisco
+36,2025-01-02,Cleveland,Dallas,Cleveland
+37,2025-01-03,Dallas,Phoenix,Dallas
+38,2025-01-05,Seattle,Dallas,Seattle
+39,2025-01-08,Cleveland,Dallas,Cleveland
+40,2025-01-09,Dallas,Seattle,Dallas
+41,2025-01-12,Dallas,Miami,Dallas
+42,2025-01-16,Dallas,Charlotte,Dallas
+43,2025-01-18,San Francisco,Dallas,San Francisco
+44,2025-01-21,Houston,Dallas,Houston
+45,2025-01-23,Dallas,Miami,Dallas
+46,2025-01-25,Boston,Dallas,Boston
+47,2025-01-28,Atlanta,Dallas,Atlanta
+48,2025-01-30,Dallas,Miami,Dallas
+49,2025-02-02,New Orleans,Dallas,New Orleans
+50,2025-02-04,Toronto,Dallas,Toronto
+51,2025-02-07,New York,Dallas,New York
+52,2025-02-10,Charlotte,Dallas,Charlotte
+53,2025-02-13,Dallas,Seattle,Dallas
+54,2025-02-14,Dallas,Seattle,Dallas
+55,2025-02-15,Dallas,Chicago,Dallas
+56,2025-02-18,Dallas,Los Angeles,Dallas
+57,2025-02-21,Dallas,Boston,Dallas
+58,2025-02-24,Dallas,Washington DC,Dallas
+59,2025-02-26,Philadelphia,Dallas,Philadelphia
+60,2025-03-02,Dallas,Seattle,Dallas
